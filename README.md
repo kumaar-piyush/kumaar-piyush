@@ -1,65 +1,74 @@
-<!-- 🌌 Animated Header -->
+<!-- 🌌 HEADER (DP color matched: orange → purple → dark) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Piyush%20Kumar&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6a00,30:ffb347,60:8e2de2,100:0f2027&height=135&section=header&text=Piyush%20Kumar&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </p>
 
-<!-- 🔥 Typing Animation -->
+<!-- 🔥 TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Structural+Bioinformatician;Drug+Discovery+Researcher;Database+Developer;AI+in+Biology+Enthusiast;Network+Biology+Explorer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF6A00&center=true&vCenter=true&lines=Structural+Bioinformatician;Drug+Discovery+Researcher;Database+Developer;AI+in+Biology+Explorer;Protein-Ligand+Interaction+Enthusiast" />
 </p>
 
 ---
 
 ## 🧬 About Me
 
-<img align="right" height="150" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/>
+<img align="right" height="170" style="border-radius:12px; box-shadow: 0px 0px 15px rgba(255,100,0,0.6);" src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif"/>
 
-- 🔬 Working at the intersection of **AI + Biology**
-- 🧠 Specialized in **Structural Bioinformatics & Drug Discovery**
-- 🗄️ Building **biological databases & pipelines**
+- 🔬 Working at the intersection of **AI + Structural Biology**
+- 🧪 Focused on **Protein–Ligand Interaction & Drug Discovery**
+- 🧠 Specialized in **Structural Bioinformatics**
 - 🔗 Exploring **Network Biology & Systems Biology**
-- ⚙️ Focused on **computational drug design & modeling**
-- 📊 Applying **ML/DL on biomedical datasets**
+- ⚙️ Building **computational pipelines for molecular modeling**
+- 📊 Applying **Machine Learning on biomedical datasets**
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 💻 Programming
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0f2027?style=for-the-badge&logo=python&logoColor=ffcc00)
+![R](https://img.shields.io/badge/R-1a1a2e?style=for-the-badge&logo=r&logoColor=00d4ff)
+![SQL](https://img.shields.io/badge/SQL-0f3460?style=for-the-badge&logo=postgresql&logoColor=ff6a00)
 
 ### 🧬 Bioinformatics
-![RDKit](https://img.shields.io/badge/RDKit-orange?style=for-the-badge)
-![PyMOL](https://img.shields.io/badge/PyMOL-blue?style=for-the-badge)
-![AutoDock](https://img.shields.io/badge/AutoDock-green?style=for-the-badge)
-![GROMACS](https://img.shields.io/badge/GROMACS-red?style=for-the-badge)
+![RDKit](https://img.shields.io/badge/RDKit-1a1a2e?style=for-the-badge&logoColor=orange)
+![PyMOL](https://img.shields.io/badge/PyMOL-0f2027?style=for-the-badge&logoColor=blue)
+![AutoDock](https://img.shields.io/badge/AutoDock-1a1a2e?style=for-the-badge&logoColor=green)
+![GROMACS](https://img.shields.io/badge/GROMACS-0f2027?style=for-the-badge&logoColor=red)
 
-### 🤖 AI & Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+### 🤖 AI / ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-1a1a2e?style=for-the-badge&logo=tensorflow&logoColor=ff6a00)
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-0f2027?style=for-the-badge&logo=scikit-learn&logoColor=00d4ff)
+![Pandas](https://img.shields.io/badge/Pandas-1a1a2e?style=for-the-badge&logo=pandas&logoColor=white)
 
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 ---
 
 ## 🚀 Current Focus
 
-- 🧪 **AI-based Molecule Generation (Transformer + RL)**
+- 🧪 AI-based **Molecule Generation (Transformer + RL)**
 - 📉 **Drug Response Prediction (IC50 Modeling)**
+- 🧬 **Microbiome Big Data + AI Integration**
 - 🔗 **Gene-miRNA-TF Network Analysis**
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kumaar-piyush&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kumaar-piyush&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f2027" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0f2027" height="150"/>
 </p>
 
 ---
@@ -67,8 +76,12 @@
 ## 📈 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumaar-piyush&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f2027" />
 </p>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 ---
 
