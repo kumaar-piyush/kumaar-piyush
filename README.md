@@ -78,8 +78,8 @@ background: linear-gradient(145deg, rgba(15,32,39,0.95), rgba(44,83,100,0.95));
 ![VMD](https://img.shields.io/badge/VMD-223a5e?style=for-the-badge&logoColor=ffffff)
 ![Chimera](https://img.shields.io/badge/Chimera-274c77?style=for-the-badge&logoColor=ffffff)
 ![BLAST](https://img.shields.io/badge/BLAST-2c5282?style=for-the-badge&logoColor=ffffff)
-![Clustal Omega](https://img.shields.io/badge/ClustalOmega-2a6f97?style=for-the-badge&logoColor=ffffff)
 
+![Clustal Omega](https://img.shields.io/badge/ClustalOmega-2a6f97?style=for-the-badge&logoColor=ffffff)
 ![Cytoscape](https://img.shields.io/badge/Cytoscape-2c7da0?style=for-the-badge&logoColor=ffffff)
 ![MEGA](https://img.shields.io/badge/MEGA-468faf?style=for-the-badge&logoColor=ffffff)
 ![Galaxy](https://img.shields.io/badge/Galaxy-61a5c2?style=for-the-badge&logoColor=ffffff)
