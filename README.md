@@ -173,6 +173,5 @@ background: linear-gradient(145deg, rgba(15,32,39,0.95), rgba(44,83,100,0.95));
 </td>
 </tr>
 </table>
-
 </div>
 
