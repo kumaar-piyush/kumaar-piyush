@@ -1,12 +1,12 @@
 <!-- 🌌 MAIN OUTER CONTAINER -->
-<table align="center" width="100%">
+<table align="center" width="40%">
 <tr>
 <td>
 
 <!-- 🔲 FAKE BORDER BOX -->
 <div align="center">
 
-<table width="90%" 
+<table width="40%" 
 style="
 border: 10px solid #00ffff;
 border-radius: 20px;
