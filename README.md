@@ -26,13 +26,43 @@ background: linear-gradient(145deg, rgba(15,32,39,0.95), rgba(44,83,100,0.95));
 
 ---
 
-## 👨‍💻 About Me
-- 🔬 Working at the intersection of **AI + ML**
-- 🧪 Focused on **Protein–Ligand Interaction & Drug Discovery**
-- 🧠 Specialized in **Structural Bioinformatics**
-- 🔗 Exploring **Network Biology & Systems Biology**
-- ⚙️ Building **computational pipelines for molecular modeling**
-- 📊 Applying **Machine Learning on biomedical datasets**
+<!-- 👨‍💻 ABOUT ME + GH-ASCII CARD -->
+<table width="100%" style="border-collapse: collapse; border: none;">
+<tr>
+
+<!-- LEFT: ABOUT ME -->
+<td width="62%" valign="top" style="border: none; padding: 10px 20px 10px 0;">
+
+<h2>👨‍💻 About Me</h2>
+
+<ul>
+<li>🔬 Working at the intersection of <strong>AI + ML</strong></li>
+<li>🧪 Focused on <strong>Protein–Ligand Interaction & Drug Discovery</strong></li>
+<li>🧠 Specialized in <strong>Structural Bioinformatics</strong></li>
+<li>🔗 Exploring <strong>Network Biology & Systems Biology</strong></li>
+<li>⚙️ Building <strong>computational pipelines for molecular modeling</strong></li>
+<li>📊 Applying <strong>Machine Learning on biomedical datasets</strong></li>
+</ul>
+
+</td>
+
+<!-- RIGHT: GH-ASCII PROFILE CARD -->
+<td width="38%" align="center" valign="middle" style="border: none; padding: 10px 0 10px 15px;">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img 
+    alt="kumaar-piyush's GitHub profile" 
+    src="dark_mode.svg"
+    width="100%"
+  />
+</picture>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
