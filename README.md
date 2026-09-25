@@ -27,18 +27,22 @@ background: linear-gradient(145deg, rgba(15,32,39,0.95), rgba(44,83,100,0.95));
 ---
 
 ---
-<!-- 👨‍💻 ABOUT ME + GOKU CARD -->
+<!-- 👨‍💻 ABOUT ME + GOKU -->
 
 <table width="100%" style="border-collapse: collapse; border: none;">
 <tr>
 
 <!-- LEFT: ABOUT ME -->
-<td width="65%" valign="top" style="border: none; padding: 10px 20px 10px 5px;">
+<td width="58%" valign="top" style="
+border: none;
+padding: 10px 15px 10px 5px;
+">
 
 <h2>👨‍💻 About Me</h2>
 
 <ul>
 <li>🔬 Working at the intersection of <strong>AI + ML</strong></li>
+<li>🗄️ Developing <strong>Biological Databases & Bioinformatics Resources</strong></li>
 <li>🧪 Focused on <strong>Protein–Ligand Interaction & Drug Discovery</strong></li>
 <li>🧠 Specialized in <strong>Structural Bioinformatics</strong></li>
 <li>🔗 Exploring <strong>Network Biology & Systems Biology</strong></li>
@@ -48,15 +52,17 @@ background: linear-gradient(145deg, rgba(15,32,39,0.95), rgba(44,83,100,0.95));
 
 </td>
 
-<!-- RIGHT: GOKU CARD -->
-<td width="35%" align="center" valign="middle"
-    style="border: none; padding: 10px 5px;">
+<!-- RIGHT: GOKU -->
+<td width="38%" valign="middle" align="right" style="
+border: none;
+padding: 5px 0 5px 0;
+">
 
 <img
   src="./goku.png"
   alt="Goku"
-  width="260"
-  style="border-radius: 15px;"
+  width="310"
+  style="display:block; margin-left:auto;"
 />
 
 </td>
