@@ -26,12 +26,14 @@ background: linear-gradient(145deg, rgba(15,32,39,0.95), rgba(44,83,100,0.95));
 
 ---
 
-<!-- 👨‍💻 ABOUT ME + GH-ASCII -->
+---
+<!-- 👨‍💻 ABOUT ME + GOKU CARD -->
+
 <table width="100%" style="border-collapse: collapse; border: none;">
 <tr>
 
 <!-- LEFT: ABOUT ME -->
-<td width="70%" valign="top" style="border: none; padding: 10px 15px 10px 10px;">
+<td width="65%" valign="top" style="border: none; padding: 10px 20px 10px 5px;">
 
 <h2>👨‍💻 About Me</h2>
 
@@ -46,25 +48,16 @@ background: linear-gradient(145deg, rgba(15,32,39,0.95), rgba(44,83,100,0.95));
 
 </td>
 
-<!-- RIGHT: GH-ASCII -->
-<td width="30%" align="center" valign="middle"
+<!-- RIGHT: GOKU CARD -->
+<td width="35%" align="center" valign="middle"
     style="border: none; padding: 10px 5px;">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="./dark_mode.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="./light_mode.svg"
-  />
-  <img
-    src="./dark_mode.svg"
-    alt="kumaar-piyush's GitHub profile"
-    width="100%"
-  />
-</picture>
+<img
+  src="./goku.png"
+  alt="Goku"
+  width="260"
+  style="border-radius: 15px;"
+/>
 
 </td>
 
