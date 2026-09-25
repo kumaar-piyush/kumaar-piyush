@@ -201,7 +201,10 @@ padding: 5px 0 5px 0;
 ## 📈 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumaar-piyush&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f2027&cache_seconds=1800" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumaar-piyush&layout=compact&langs_count=8&card_width=400"
+    alt="Top Languages"
+  />
 </p>
 
 ---
