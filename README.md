@@ -24,7 +24,23 @@ background: linear-gradient(145deg, rgba(15,32,39,0.95), rgba(44,83,100,0.95));
 <h1 align="center"> BIOINFORMATICIAN </h1>
 <p align="center">Database Development || Computational Biology || AI/ML || Network Biology || Drug Discovery || Protein Modeling </p>
 
----
+<!-- 🎬 HERO ANIMATION -->
+
+<table width="100%" style="border-collapse:collapse;">
+<tr>
+<td align="center" style="border:none; padding:5px 0 15px 0;">
+
+<img
+  src="./main_vid.gif"
+  alt="Bioinformatics animation"
+  width="850"
+  height="380"
+  style="display:block; margin:auto; border-radius:12px;"
+/>
+
+</td>
+</tr>
+</table>
 
 ---
 <!-- 👨‍💻 ABOUT ME + GOKU -->
@@ -191,20 +207,8 @@ padding: 5px 0 5px 0;
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kumaar-piyush&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f2027&cache_seconds=1800" height="150"/>
   
   <img src="https://streak-stats.demolab.com?user=kumaar-piyush&theme=tokyonight&hide_border=true&background=0f2027" height="150"/>
-</p>
-
----
-
-## 📈 Top Languages
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumaar-piyush&layout=compact&langs_count=8&card_width=400"
-    alt="Top Languages"
-  />
 </p>
 
 ---
